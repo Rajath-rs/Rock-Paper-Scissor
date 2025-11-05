@@ -1,37 +1,42 @@
-A fun and interactive web-based implementation of the classic Rock Paper Scissors game. Play against the computer with real-time score tracking and instant visual feedback. [web:1]
+#  Rock Paper Scissors ️
 
-Features
-Interactive Gameplay: Click on your choice (Rock, Paper, or Scissors) to play
+A simple and fun **Rock-Paper-Scissors** game built using **HTML**, **CSS**, and **JavaScript**.  
+The player competes against the computer to see who wins more rounds.
 
-Real-time Scoring: Keep track of your wins and computer wins
+---
 
-Dynamic Feedback: Color-coded messages showing game results (green for win, red for loss, blue for draw)
+## Features
 
-Responsive Design: Clean and centered layout with hover effects
+- Interactive user interface with clean design  
+- Randomized computer choices  
+- Real-time score updates  
+- Responsive layout for desktop and mobile  
+- Smooth animations and visual feedback  
 
-Computer AI: Random choice generation for unpredictable gameplay
+---
 
+## Technologies Used
 
+- **HTML5** – Structure and layout  
+- **CSS3** – Styling and responsiveness  
+- **JavaScript (ES6)** – Game logic and interactivity  
 
-Technologies Used
-HTML5: Structure and layout
+---
 
-CSS3: Styling with flexbox for responsive design
+## How to Play
 
-JavaScript (Vanilla): Game logic and event handling
+1. Choose one of the three options:
+   - 🪨 Rock  
+   - 📄 Paper  
+   - ✂️ Scissors  
+2. The computer will randomly pick its choice.  
+3. The result (Win / Lose / Draw) will be displayed instantly.  
+4. Your score and the computer’s score update after every round.
 
+---
 
+## Installation & Usage
 
-How to Play
-Open index.html in your web browser
-
-Click on your choice: Rock, Paper, or Scissors
-
-The computer automatically makes its choice
-
-View the result and updated score
-
-Keep playing to beat the computer
-
-
-
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Rajath-rs/Rock-Paper-Scissor.git
